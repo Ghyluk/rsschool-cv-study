@@ -20,11 +20,11 @@ I know that my ability to learn and acquire new skills will help me become an ex
 
 ## **Skills and Proficiency:**
 
--HTML5
--CSS3
--JavaScript Basics
--Git, GitHub
--VS Cod
+- HTML5
+- CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Cod
 
 ## **Code example:**
 
