@@ -12,7 +12,7 @@
 =======
 ##**Briefly About Myself:**
 
-I am a chemical engineer by education. Ш began ьн career at the Azot chemical plant as a loader.
+I am a chemical engineer by education. I began the career at the Azot chemical plant as a loader.
 But gradually, with my work and diligence, I mastered the new profession of an apparatchik, and then became a shift supervisor.
 There are 13 people under my leadership. I am excellent at working in a team and I have good relations in the team.
 Working in shifts, there is a lot of free time that I spend on learning Frontend development. This is completely new to me.
