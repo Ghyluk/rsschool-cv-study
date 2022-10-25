@@ -1,11 +1,11 @@
 
-# **Hleb Kuzikevich**
+# **Hleb Kuzikevich** 
 
 ## **Contacts infortmation:**
 
 - **Location: Grodno, Belarus**
 - **Phone: +375295812379**
-- **Email: Ghyluk@yandex.ru**
+- **Email: [Ghyluk@yandex.ru](Ghyluk@yandex.ru)**
 - **Nickname discord server rs-school: Hleb Kuzikevich(@Ghylyk)**
 
 ## **Briefly About Myself:**
@@ -46,9 +46,9 @@ Nothing yet
 
 ## **Education and courses:**
 
-- HTML5 (https://ru.code-basics.com/languages/html)
-- JavaScript (https://learn.javascript.ru/)
-- CSS (https://ru.code-basics.com/languages/css)
+- [HTML5](https://ru.code-basics.com/languages/html)
+- [JavaScript](https://learn.javascript.ru/)
+- [CSS](https://ru.code-basics.com/languages/css)
 
 ## **Language**
 
