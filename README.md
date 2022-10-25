@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ghyluk.github.io/rsschool-cv/cv
