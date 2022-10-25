@@ -23,4 +23,8 @@ I know that my ability to learn and acquire new skills will help me become an ex
 -VS Cod
 =======
 ##**Code example:**
-
+```
+function multiply (a, b) {
+return a * b
+}
+```
