@@ -1,2 +1,2 @@
 https://Ghyluk.github.io/rsschool-cv/cv
-https://Ghyluk.github.io/rsschool-cv/index
+https://Ghyluk.github.io/rsschool-cv/
